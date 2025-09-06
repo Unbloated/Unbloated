@@ -1,3 +1,3 @@
 ## Unbloated
 
-![image](https://img.shields.io/badge/Codes_in-Node.JS-green) ![image](https://img.shields.io/badge/Codes_in-Python-blue) ![image](https://img.shields.io/badge/Codes_in-PHP-cyan) ![image](https://img.shields.io/badge/Codes_in-Lua-blue)
+![rooster-talking-4238250109](https://github.com/user-attachments/assets/50f7896e-c0b5-48b4-8300-444f52085430)
