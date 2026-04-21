@@ -4,5 +4,6 @@
 ### I WILL NOT USE WHATEVER PROPRIETARY SOFTWARE
 ### I WILL NOT USE ANY GOV APPS
 
+---
 
-If you think this is wrong then FEEL FREE TO FIRE ME ALREADY. Thanks!
+If you think this is wrong then **FEEL FREE TO FIRE ME ALREADY.** Thanks!
