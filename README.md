@@ -1,9 +1,1 @@
-### I WILL NOT USE LINKEDIN
-### I WILL NOT USE GOOGLE
-### I WILL NOT MAKE A MICROSOFT ACCOUNT
-### I WILL NOT USE WHATEVER PROPRIETARY SOFTWARE
-### I WILL NOT USE ANY GOV APPS
-
----
-
-If you think this is wrong then **FEEL FREE TO FIRE ME ALREADY.** Thanks!
+I don't often check GitHub. Carry on!
